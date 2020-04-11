@@ -1,0 +1,25 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "Simple express example for code sandbox",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "nirav patel",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niravkpatel28/expressJs-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niravkpatel28/expressJs-demo/issues"
+  },
+  "homepage": "https://github.com/niravkpatel28/expressJs-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
